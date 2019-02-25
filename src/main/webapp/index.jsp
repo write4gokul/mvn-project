@@ -1,5 +1,6 @@
 <html>
 <body>
-<h2>Hello World!</h2>
+<h1> <body bgcolor=yellow> Jenkins server successfully deployed myapp to Tomcat server 
+  </h1>
 </body>
 </html>
